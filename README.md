@@ -1,7 +1,7 @@
-# Project Name: 
+#######Project Name: 
 T51---Capstone-Project-VII
 
-Description: 
+######Description: 
 Project is based on the database of Arrest made in US for different crime, in this project we have 
 done correlation of different feature to understand positive and negative correlation
 Done PCA analysis and understand the importance of components and at the end perform clustering of data
