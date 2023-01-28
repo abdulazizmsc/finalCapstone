@@ -7,9 +7,9 @@ done correlation of different feature to understand positive and negative correl
 Done PCA analysis and understand the importance of components and at the end perform clustering of data
 
 ## Table of Content:
-a. Installation
-b. Usage
-c. Credit
+a. ** Installation **
+b. ** Usage **
+c. ** Credit**
 
 ## a. Installation
 Project can be accessed from https://github.com/abdulazizmsc/finalCapstone
